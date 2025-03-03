@@ -48,19 +48,19 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "4":{
+  "4":{
   "id": "4",
-  "name": "AYA TV",
+  "name": "MGS TV",
   "description": "605",
-  "live_url": "https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8",
-  "thumbnail": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg",
+  "live_url": "https://stream.berosat.live:19360/mgs-tv/mgs-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgzNjI1NDhf/mgstv.jpg",
   "categorie": "RELIGION",
   "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "5":{
+  "5":{
   "id": "5",
   "name": "MIRACLE TV",
   "description": "606",
@@ -469,4 +469,19 @@
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   }
 }
+
+
+
+ "4":{
+  "id": "4",
+  "name": "AYA TV",
+  "description": "605",
+  "live_url": "https://helga.iptv2022.com/sh/Aya_TV/tracks-v1a1/mono.m3u8",
+  "thumbnail": "https://od.lk/s/NzNfODE5MzMyNDhf/AYATV.jpg",
+  "categorie": "RELIGION",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
 
