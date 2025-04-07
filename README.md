@@ -456,7 +456,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "38":{
+  "38":{
   "id": "38",
   "name": "DIVINE AMOUR",
   "description": "639",
@@ -467,8 +467,22 @@
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "38":{
+  "id": "38",
+  "name": "Al QURAN Al KAREEM TV",
+  "description": "639",
+  "live_url": "http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODAwNjQyOTFf/AlQURANAlKAREEM.jpg",
+  "categorie": "RELIGION",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   }
 }
+
+
 
 
 
