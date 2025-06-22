@@ -273,7 +273,7 @@
    "30":{
   "id": "30",
   "name": "LOVE WORLD SAT",
-  "number":"631"
+  "number":"631",
   "description": "631",
   "live_url": "https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/chunklist.m3u8",
   "thumbnail": "https://od.lk/s/M18yODQ2Njg2NzZf/loveWsat.jpeg",
@@ -282,7 +282,7 @@
    "31":{
   "id": "31",
   "name": "ALPHA OMEGA",
-  "number":"632"
+  "number":"632",
   "description": "632",
   "live_url": "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTE2NzM5Njhf/alphaomega.jpg",
@@ -291,7 +291,7 @@
    "32":{
   "id": "32",
   "name": "CONGOPLANET GOSPEL",
-  "number":"633"
+  "number":"633",
   "description": "633",
   "live_url": "https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yNDU0NzYzODBf/CPlanetRhumba.jpeg",
@@ -300,7 +300,7 @@
    "33":{
   "id": "33",
   "name": "HEALING JESUS",
-  "number":"634"
+  "number":"634",
   "description": "634",
   "live_url": "https://webstreaming-3.viewmedia.tv/web_041/Stream/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yODk4NDU4MDdf/healingjesus.jpeg",
@@ -309,7 +309,7 @@
    "34":{
   "id": "34",
   "name": "GOD TV",
-  "number":"635"
+  "number":"635",
   "description": "635",
   "live_url": "https://hlsb-us.god.tv/GODTV/USA-360.m3u8",
   "thumbnail": "https://od.lk/s/M18yODY0NjQyNzFf/god.png",
@@ -318,7 +318,7 @@
    "35":{
   "id": "35",
   "name": "MY GOSPEL",
-  "number":"636"
+  "number":"636",
   "description": "636",
   "live_url": "http://102.132.19.90:8000/play/a049/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTU4OTUzODZf/mygospel.jpeg",
@@ -327,7 +327,7 @@
    "36":{
   "id": "36",
   "name": "CHRIST LIVE",
-  "number":"637"
+  "number":"637",
   "description": "637",
   "live_url": "https://voozmedia.fun/stream/christlive/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yODQ2NzY3NDVf/christlive.png",
@@ -336,7 +336,7 @@
    "37":{
   "id": "37",
   "name": "HOPE CHANNEL",
- "number":"638" 
+ "number":"638", 
   "description": "638",
   "live_url": "https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8",
   "thumbnail": "https://od.lk/s/M18yODk4NDU5MDJf/hopechanneljpeg",
@@ -345,7 +345,7 @@
   "38":{
   "id": "38",
   "name": "DIVINE AMOUR",
-  "number":"639"
+  "number":"639",
   "description": "639",
   "live_url": "https://helga.iptv2022.com/Divin_Amour/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yODQ2ODkyNDZf/DivinAmour.jpeg",
@@ -354,7 +354,7 @@
   "38":{
   "id": "38",
   "name": "Al QURAN Al KAREEM TV",
-  "number":"640"
+  "number":"640",
   "description": "639",
   "live_url": "http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODAwNjQyOTFf/AlQURANAlKAREEM.jpg",
