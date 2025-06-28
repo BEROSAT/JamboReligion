@@ -341,7 +341,7 @@
   "live_url": "https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8",
   "thumbnail": "https://od.lk/s/M18yODk4NDU5MDJf/hopechanneljpeg",
   "categorie": "RELIGION"
-  }
+  },
   "38":{
   "id": "38",
   "name": "DIVINE AMOUR",
@@ -350,7 +350,7 @@
   "live_url": "https://helga.iptv2022.com/Divin_Amour/index.m3u8",
   "thumbnail": "https://od.lk/s/M18yODQ2ODkyNDZf/DivinAmour.jpeg",
   "categorie": "RELIGION"
-  }
+  },
   "38":{
   "id": "38",
   "name": "Al QURAN Al KAREEM TV",
@@ -359,7 +359,7 @@
   "live_url": "http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODAwNjQyOTFf/AlQURANAlKAREEM.jpg",
   "categorie": "RELIGION"
-  },
+  }
 }
 
 
