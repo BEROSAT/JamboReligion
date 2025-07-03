@@ -359,6 +359,24 @@
   "live_url": "http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODAwNjQyOTFf/AlQURANAlKAREEM.jpg",
   "categorie": "RELIGION"
+  },
+  "39":{
+  "id": "39",
+  "name": "MK NGOMA TV",
+  "number":"641",
+  "description": "MK Ngoma television est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, la chaînes restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin",
+  "live_url": "https://stream.berosat.live:19360/mk-ngoma-tv/mk-ngoma-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODMzNzE4MjNf/mkNgomatv.jpg",
+  "categorie": "RELIGION"
+  },
+  "40":{
+  "id": "40",
+  "name": "POURIM TV",
+  "number":"642",
+  "description": "POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, Pourim RTV brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin.",
+  "live_url": "https://stream.berosat.live:19360/pourim-tv/pourim-tv.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jp",
+  "categorie": "RELIGION"
   }
 }
 
