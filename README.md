@@ -8,7 +8,11 @@
   "live_url":"https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8",
   "thumbnail":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
   "categorie":"RELIGION"
-  },
+  }
+}
+
+
+  
   "1":{
   "id": "1",
   "name": "RADIO TÉLÉ SILO",
@@ -378,7 +382,7 @@
   "thumbnail": "https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jp",
   "categorie": "RELIGION"
   }
-}
+
 
 
 
