@@ -8,7 +8,10 @@
   "live_url":"https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8",
   "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQ3Xw",
   "categorie":"RELIGION"
-  },
+  }
+}
+
+  
   "1":{
   "id":"2",
   "name":"ESAIE 45 TELE",
