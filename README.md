@@ -2,10 +2,91 @@
 {
   "0":{
   "id":"1",
+  "name":"EXPLOITS TV",
+  "number":"601",
+  "description":"EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chrétienne....",
+  "live_url":"https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQ3Xw",
+  "categorie":"RELIGION"
+  },
+  "1":{
+  "id":"2",
+  "name":"ESAIE 45 TELE",
+  "number":"601",
+  "description":"Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
+  "live_url":"https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQ2Xw",
+  "categorie":"RELIGION"
+  },
+  "2":{
+  "id":"3",
+  "name":"GOLGOTHA TV",
+  "number":"601",
+  "description":"Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables.",
+  "live_url":"https://stream.berosat.live/hls/golgotha-tv/golgotha-tv.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDUwXw",
+  "categorie":"RELIGION"
+  },
+  "3":{
+  "id":"4",
+  "name":"CITE DE DAVID",
+  "number":"601",
+  "description":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com",
+  "live_url":"https://stream.berosat.live/hls/cite-david/cite-david.m3u8",
+  "thumbnail":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg",
+  "categorie":"RELIGION"
+  },
+  "4":{
+  "id":"5",
+  "name":"DER-TV",
+  "number":"601",
+  "description":"DER TV (DESTINED TO REIGN CHURCH) ou encore (EGLISE DESTINEE A REGNER) est une chaîne chrétienne qui diffuse la bonne nouvelle de l'abondance de grâce à tous, dans le but d'aider les chretiens à découvrir les richesses de gloire qu'ils ont reçues lorsqu'ils ont été sauvés. C'est une chaîne qui appartient à Église Destinée à Régner.",
+  "live_url":"https://stream.berosat.live/hls/der-tv/der-tv.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQ0Xw",
+  "categorie":"RELIGION"
+  },
+  "5":{
+  "id":"6",
+  "name":"CCPV TV",
+  "number":"601",
+  "description":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration louange et tant d'autres",
+  "live_url":"https://stream.berosat.live/hls/ccpv-tv/ccpv-tv.m3u8",
+  "thumbnail":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg",
+  "categorie":"RELIGION"
+  },
+  "6":{
+  "id":"7",
+  "name":"CCPV TV",
+  "number":"601",
+  "description":"La Chaîne de la Religion Négro-Africaine des Enseignants, basée sur la doctrine de Mfumu Kimbangu Diatungunia, émettant depuis la République démocratique du Congo",
+  "live_url":"https://stream.berosat.live/hls/ack-tv/ack-tv.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDM3Xw",
+  "categorie":"RELIGION"
+  },
+  "8":{
+  "id":"9",
+  "name":"RTE TV HD",
+  "number":"601",
+  "description":"RTE TV tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information",
+  "live_url":"https://stream.berosat.live/hls/rte-tv/rte-tv.m3u8",
+  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDU4Xw",
+  "categorie":"RELIGION"
+  },
+  "9":{
+  "id":"10",
+  "name":"POURIM-RTV",
+  "number":"601",
+  "description":"POURIM RTV — La Voix de l’Émancipation Spirituelle, Pourim RTV est une chaîne de radio-télévision web chrétienne prophétique, née pour être le canal de l’émancipation spirituelle de l’homme et de sa famille. Elle diffuse 24h/24 un contenu inspiré, puissant et centré sur la transformation des vies par la Parole de Dieu, la prière, l’adoration, l’enseignement biblique profond et des émissions qui réveillent la destinée. Notre mission : Délivrer, enseigner, équiper et élever des hommes et des femmes pour un impact durable dans le monde spirituel et physique. À travers ses programmes dynamiques et prophétiques, Pourim RTV brise les chaînes de l’ignorance, restaure les familles, éveille les consciences, et conduit chacun à découvrir son identité, sa mission et sa place dans le plan divin. Pourim RTV est une voix prophétique pour les temps de la fin",
+  "live_url":"https://stella.streamerr.co:3776/hybrid/play.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODI4MzE5MDBf/pourim.jpg",
+  "categorie":"RELIGION"
+  },
+  "10":{
+  "id":"11",
   "name":"ONE TV",
   "number":"601",
-  "description":"601",
-  "live_url":"https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8",
+  "description":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865",
+  "live_url":"https://live-onetv.eu:5866/hls/Clive1.m3u8",
   "thumbnail":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
   "categorie":"RELIGION"
   }
