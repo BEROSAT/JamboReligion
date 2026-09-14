@@ -65,11 +65,20 @@
   },
   "7":{
   "id":"8",
-  "name":"EXPLOITS TV",
+  "name":"RTP HD",
   "number":"601",
-  "description":"EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chrétienne....",
-  "live_url":"https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8",
-  "thumbnail":"https://od.lk/thumb/NzNfMTM1MDQyMDQ3Xw",
+  "description":"Radio Télé Puissance est la première chaine chrétienne en République Democratique du Congo",
+  "live_url":"https://stream.berosat.live/hls/rtp-hd/rtp-hd.m3u8",
+  "thumbnail":"https://od.lk/thumb/NDZfOTc0NDc5MTRfb1VOYVo",
+  "categorie":"RELIGION"
+  },
+  "8":{
+  "id":"9",
+  "name":"RTAE HD",
+  "number":"601",
+  "description":"RTAE HD, la première chaine chrétienne en République Democratique du Congo sur TNT",
+  "live_url":"https://stream.berosat.live/hls/rtae/rtae.m3u8",
+  "thumbnail":"https://od.lk/thumb/NDZfOTc1NTk3MTVfY2tqMjA",
   "categorie":"RELIGION"
   }
 }
