@@ -74,11 +74,11 @@
   },
   "8":{
   "id":"9",
-  "name":"RTAE HD",
+  "name":"CPT TV",
   "number":"601",
-  "description":"RTAE HD, la première chaine chrétienne en République Democratique du Congo sur TNT",
-  "live_url":"https://stream.berosat.live/hls/rtae/rtae.m3u8",
-  "thumbnail":"https://od.lk/thumb/NDZfOTc1NTk3MTVfY2tqMjA",
+  "description":"CPT TV (Christ Puissance pour notre Transformation Télévision) 1 Corinthiens 2:4-5. Nous émettons depuis la ville de Kinshasa en République Démocratique du Congo",
+  "live_url":"https://stream.berosat.live/hls/cpt-tv/cpt-tv.m3u8",
+  "thumbnail":"https://od.lk/thumb/M18zMzcyNTU3MTJfQzF3OUc",
   "categorie":"RELIGION"
   }
 }
